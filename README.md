@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard [Live Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiMjY0MzIzZTAtOTU0OC00ZDlkLTk0YjItNjU3NDM1MGJlNTI2IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9)
+# Credit_Card_Financial_Dashboard [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjY0MzIzZTAtOTU0OC00ZDlkLTk0YjItNjU3NDM1MGJlNTI2IiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9)
 Power BI Dashboard
 This repository contains Power BI reports analyzing credit card transactions and customer data. The project involves importing data from Excel into PostgreSQL and creating Power BI dashboards to visualize key performance indicators (KPIs) and insights.
 
