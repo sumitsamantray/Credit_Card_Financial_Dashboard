@@ -2,8 +2,15 @@
 Power BI Dashboard
 This repository contains Power BI reports analyzing credit card transactions and customer data. The project involves importing data from Excel into PostgreSQL and creating Power BI dashboards to visualize key performance indicators (KPIs) and insights.
 
-# Data Source
+# Tetch Stacks
+Markup : ```javascript
+         ```
+MS Excel 
+Postgres SQL
+Power Bi 
+DAX Language
 
+# Data Source
 The data used in this project consists of two tables in PostgreSQL:
 
 # cc_detail Table
