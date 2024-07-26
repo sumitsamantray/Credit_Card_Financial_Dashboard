@@ -1,14 +1,13 @@
-# Credit_Card_Financial_Dashboard [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTRiNTBlNzktNjVhZC00ODZiLTliM2ItODcxZDg0ZjY5ZDQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-Power BI Dashboard
+# Credit_Card_Financial_Dashboard 
+Power BI Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiZTRiNTBlNzktNjVhZC00ODZiLTliM2ItODcxZDg0ZjY5ZDQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 This repository contains Power BI reports analyzing credit card transactions and customer data. The project involves importing data from Excel into PostgreSQL and creating Power BI dashboards to visualize key performance indicators (KPIs) and insights.
 
 # Tetch Stacks
-Markup : ```javascript
-         ```
-MS Excel 
-Postgres SQL
-Power Bi 
-DAX Language
+
+1. MS Excel 
+2. Postgres SQL
+3. Power Bi 
+4. DAX Language
 
 # Data Source
 The data used in this project consists of two tables in PostgreSQL:
@@ -51,6 +50,25 @@ Contact: Contact information
 Customer_Job: The job of the customer
 Income: Income of the customer
 Cust_Satisfaction_Score: Customer satisfaction score
+
+# Importing data From Postgres SQL to Power Bi 
+As the database is Postgres SQL in this project, we need to import the datasets from the Postgres SQL database to PowerBi by providing the Database access credential.
+
+# Data Model
+![image](https://github.com/user-attachments/assets/7ba7aa7c-4496-4fb0-be79-dfb06c5c23d5)
+
+# Home View 
+![image](https://github.com/user-attachments/assets/f8518040-4a97-4087-98b7-c62e3a7b5e40)
+1. Info 
+2. Credit Card Transaction Report
+3. Credit card Customer Report
+
+# Credit Card Transaction Report
+![image](https://github.com/user-attachments/assets/79159d23-bd8d-4923-9082-609f564fc87e)
+
+# Credit card Customer Report
+
+![image](https://github.com/user-attachments/assets/95651553-3714-405f-bc0b-8aec8828554c)
 
 # Power BI Dashboards
 The Power BI reports consist of two main dashboards:
